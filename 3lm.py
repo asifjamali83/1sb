@@ -3138,7 +3138,7 @@ async def ghiBot(op):
 "contents": [
 {
 "type": "text",
-"text": "Pengumuman grup",
+"text": "GROUP_CAST",
 "align": "center",
 "size": "lg",
 "weight": "bold",
